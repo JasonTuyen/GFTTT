@@ -11,3 +11,6 @@ A tool for Dungeons and Dragons (D&D) players to store, save, and retrieve their
 * nodeJS
 * React
 * Firebase
+
+## Demo / Screenshot
+![In depth explaination of the project](DemoScreenshot.png)
