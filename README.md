@@ -13,4 +13,4 @@ A tool for Dungeons and Dragons (D&D) players to store, save, and retrieve their
 * Firebase
 
 ## Demo / Screenshot
-![In depth explaination of the project](DemoScreenshot.png)
+![In depth explaination of the project](DemoScreenshot.PNG)
